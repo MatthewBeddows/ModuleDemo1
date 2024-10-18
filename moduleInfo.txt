@@ -1,5 +1,4 @@
-[System] Magnet System
-The Magnet System is the core component of an MRI machine, responsible for generating a stable and homogeneous magnetic field, which is essential for high-resolution MRI imaging. This system typically employs superconducting materials cooled to cryogenic temperatures to achieve the necessary field strength and stability.
-
-[Module] Magnet Geometry Design
+[Module Info] Magnet Geometry Design
 Conduct magnetic field simulations to determine the optimal coil configuration. Create detailed CAD drawings for the magnet structure and coil winding patterns. Optimize the design for minimal fringe fields and maximum homogeneity.
+
+[Requirements]
