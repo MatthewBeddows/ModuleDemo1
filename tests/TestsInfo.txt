@@ -1,0 +1,3 @@
+[TestName] Print out Test
+
+[TestDescription] A simple test that outputs a confirmation message.
