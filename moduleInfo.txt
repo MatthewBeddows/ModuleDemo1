@@ -2,3 +2,5 @@
 [Module Info] Conduct magnetic field simulations to determine the optimal coil configuration. Create detailed CAD drawings for the magnet structure and coil winding patterns. Optimize the design for minimal fringe fields and maximum homogeneity.
 
 [Requirements]
+
+[Authors] TEST AUTHOR
